@@ -1,0 +1,97 @@
+.navbar-nav {
+    margin-left: auto;
+    position: relative;
+    right: 40px;
+}
+
+.navbar-brand {
+    padding: 50px;
+
+}
+
+.collapse {
+    margin-right: 50px;
+}
+
+.why-img {
+    height: 400px;
+    width: 600px;
+    ;
+}
+
+.why {
+    background-color: #343a40;
+    padding: 50px;
+
+}
+
+.title {
+    font-family: 'Alkatra', cursive;
+    font-weight: bold;
+}
+
+.navbar {
+    width: 100%;
+}
+.title1{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.benifits {
+    font-family: 'Varela Round', sans-serif;
+    margin: 20px 20px;
+    inline-size: 2;
+}
+
+.text {
+    position: relative;
+    left: 100px;
+    top: 100px;
+    color: whitesmoke;
+}
+
+.what{
+    text-align: center;
+    padding: 150px 200px;
+    color: rgb(0, 0, 0);
+    font-family: 'Varela Round', sans-serif;
+    font-size: large;
+    background-color: whitesmoke;
+}
+
+.what-1{
+    padding: 10px;
+}
+
+.fa-4x{
+    margin-bottom: 1rem;
+    color: #343a40;
+}
+.fa-4x:hover{
+    color: rgb(48, 171, 17);
+}
+
+.carousel-item{
+    padding: 150px 200px;
+    background-color: #343a40;
+    color: whitesmoke;
+    font-family: 'Varela Round', sans-serif;
+    font-size: x-large;
+    align-items: center;
+    
+}
+.outslide{
+    text-align: center;
+    background-color: #343a40;
+    color: whitesmoke;
+    padding: 40px 40px 10px 40px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: medium;
+}
+
+.clickme{
+    position: relative;
+    left: 250px;
+    top: 20px;
+}
