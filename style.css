@@ -77,7 +77,7 @@
     background-color: #343a40;
     color: whitesmoke;
     font-family: 'Varela Round', sans-serif;
-    font-size: x-large;
+    /* font-size: small; */
     align-items: center;
     
 }
@@ -91,7 +91,48 @@
 }
 
 .clickme{
-    position: relative;
-    left: 250px;
-    top: 20px;
+    position: absolute;
+    left: 48%;
+    right: auto;
+    margin: 25px;
+}
+
+.rfwebsite{
+    margin: 20px;
+    width: 500px;
+}
+
+.slide{
+    height: 800px;
+    background-color: #343a40;
+    font-size: medium;
+}
+.clickme-3{
+    position: absolute;
+    left: 44%;
+    right: auto;
+    margin: 25px;;
+
+    
+}
+
+.input_form{
+    text-align: center;
+    padding: 150px 200px 100px;
+    color: rgb(0, 0, 0);
+    font-family: 'Varela Round', sans-serif;
+    font-size: large;
+}
+.input{
+    background-color: whitesmoke;
+    padding: 50px;
+}
+
+.col-lg-4{
+    padding: 25px;
+}
+.submit-button{
+    position: absolute;
+    left: 48%;
+    right: auto;
 }
